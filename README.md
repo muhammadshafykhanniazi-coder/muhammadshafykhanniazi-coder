@@ -5,7 +5,7 @@ Currently exploring the worlds of **software development**, **Linux**, and **cyb
 
 ---
 
-## 🧠 What I’m Into
+## 🧠 What I do
 - 💻 Backend development with **Flask** and **Java**
 - 🌐 Building **Learning Management Systems (LMS)** from scratch
 - 🐧 Daily driving **Linux (Ubuntu / Kali)** and learning how systems really work
