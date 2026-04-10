@@ -25,10 +25,10 @@ Currently exploring the worlds of **software development**, **Linux**, and **cyb
 
 ## 🚀 Projects & Experiments
 - **Hotel Management System**
-  A Java based application having all the features necessary in a hotel management system, providing a seamless workflow to both executives and employees(frontdesk)
+    A Java based application having all the features necessary in a hotel management system, providing a seamless workflow to both executives and employees(frontdesk)
   
 - **Sender Guided Route Optimization System**
-  A sender guided Route optimization system that solves a real world problem of the shortest path being very bumpy, rather the system itself enables the sender to specify a route to reach from position A to B.
+    A python based sender guided Route optimization system that solves a real world problem of the shortest path being very bumpy, rather the system itself enables the sender to specify a route to reach from position A to B.
   
 - 📚 **Learning Management System (LMS)**  
   A Flask-based system with student & faculty login, dashboards, course registration, announcements, assignments, and file uploads.
