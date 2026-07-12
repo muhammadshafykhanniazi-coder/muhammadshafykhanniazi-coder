@@ -1,56 +1,140 @@
-# 👋 Hey, I'm Shafy,
+# Hi, I'm Shafy
 
-I’m a Computer Science student who likes **building things**, **breaking things (ethically)**, and then figuring out *why they broke*.  
-Currently exploring the worlds of **software development**, **Linux**, and **cybersecurity**—one project and one mistake at a time.
+Computer Science student with a strong interest in software engineering, cybersecurity, cloud technologies, and Linux. I enjoy designing, building, and securing software systems while continuously expanding my knowledge through hands-on projects and practical experimentation.
 
----
-
-## 🧠 What I do
-- 💻 Backend development with **Flask** and **Java**
-- 🌐 Building **Learning Management Systems (LMS)** from scratch
-- 🐧 Daily driving **Linux (Ubuntu / Kali)** and learning how systems really work
-- 🔐 Beginner in **Cybersecurity**, focused on fundamentals and ethical hacking concepts
-- 🧪 Learning by doing, not by memorizing slides
+My goal is to develop secure, scalable, and efficient solutions while strengthening my expertise in backend development, operating systems, networking, and cloud security.
 
 ---
 
-## 🛠️ Tech I Work With
-- **Languages:** Java, Python, HTML, CSS  
-- **Frameworks & Tools:** Flask, Spring Boot, Git, GitHub  
-- **Databases:** SQLite, MySql
-- **OS:** Ubuntu, Kali Linux, Windows
-- **Other:** REST APIs, session-based authentication, file handling
+# About Me
+
+I enjoy solving real-world problems through software development and continuously improving my technical skills by building projects from the ground up.
+
+My current areas of focus include:
+
+* Backend application development
+* Cybersecurity fundamentals and defensive security
+* Linux system administration
+* Cloud computing and cloud security
+* Software architecture and clean code practices
+* Network programming and system-level concepts
 
 ---
 
-## 🚀 Projects & Experiments
-- **Hotel Management System**
-    A Java based application having all the features necessary in a hotel management system, providing a seamless workflow to both executives and employees(frontdesk)
-  
-- **Sender Guided Route Optimization System**
-    A python based sender guided Route optimization system that solves a real world problem of the shortest path being very bumpy, rather the system itself enables the sender to specify a route to reach from position A to B.
-  
-- 📚 **Learning Management System (LMS)**  
-  A Flask-based system with student & faculty login, dashboards, course registration, announcements, assignments, and file uploads.
+# Technical Skills
 
-- 🅿️ **Parking System Simulation (Proteus)**  
-  Counter-based logic with 7-segment display, buzzer alerts, and capacity detection.
+### Programming Languages
 
-- 🧩 **Practice Projects**  
-  Java fundamentals, problem-solving, and small experiments to understand how things work under the hood.
+* Java
+* Python
+* HTML
+* CSS
+
+### Frameworks & Technologies
+
+* Flask
+* Spring Boot
+* REST APIs
+* Session-Based Authentication
+* Git
+* GitHub
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Operating Systems
+
+* Ubuntu Linux
+* Kali Linux
+* Windows
+
+### Currently Learning
+
+* Cloud Security
+* Microsoft Azure
+* Network Security
+* Secure Software Development
+* Linux Internals
 
 ---
 
-## 🎯 Current Focus
-- Strengthening **core programming fundamentals**
-- Understanding **how systems fail and how to secure them**
-- Writing cleaner, more readable code
-- Turning “I know the theory” into “I built this”
+# Featured Projects
+
+### Hotel Management System
+
+A Java-based desktop application designed to streamline hotel operations. The system includes employee management, customer registration, room booking, billing, and administrative functionality, providing an efficient workflow for front desk staff and management.
 
 ---
 
-## 📫 Let’s Connect
-- 💡 I like learning in public and improving through feedback
-- 🤝 Open to collaboration, guidance, and constructive criticism
+### Sender Guided Route Optimization System
 
-> Still learning. Still curious. Still shipping.
+A Python-based intelligent route optimization application that addresses scenarios where the mathematically shortest path may not be the most practical. The system enables the sender to define preferred routing constraints while utilizing pathfinding algorithms to determine efficient navigation.
+
+---
+
+### Learning Management System (LMS)
+
+A full-stack Flask web application featuring:
+
+* Student and faculty authentication
+* Course registration
+* Assignment management
+* Announcements
+* File uploads
+* User dashboards
+* Session management
+
+---
+
+### Parking System Simulation
+
+A digital logic simulation developed using Proteus featuring:
+
+* Vehicle counting
+* Capacity monitoring
+* Seven-segment display integration
+* Automatic entry restriction
+* Buzzer-based occupancy alerts
+
+---
+
+### Practice Projects
+
+A growing collection of programming exercises, algorithm implementations, and experimental projects focused on strengthening problem-solving skills and understanding software engineering fundamentals.
+
+---
+
+# Current Focus
+
+I am actively working on developing expertise in:
+
+* Cybersecurity
+* Cloud Security
+* Microsoft Azure
+* Linux Administration
+* Networking
+* Backend Development
+* Secure Coding Practices
+* Data Structures and Algorithms
+
+---
+
+# Goals
+
+* Build production-quality software
+* Develop expertise in cloud and cybersecurity
+* Contribute to open-source projects
+* Earn industry-recognized certifications
+* Continuously improve software design and engineering practices
+
+---
+
+# Let's Connect
+
+I am always open to connecting with developers, cybersecurity professionals, and technology enthusiasts. I welcome collaboration, constructive feedback, and opportunities to contribute to meaningful projects.
+
+---
+
+*"Continuous learning, practical problem-solving, and building secure software one project at a time."*
