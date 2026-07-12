@@ -1,6 +1,6 @@
 # Hi, I'm Shafy
 
-Computer Science student with a strong interest in software engineering, cybersecurity, cloud technologies, and Linux. I enjoy designing, building, and securing software systems while continuously expanding my knowledge through hands-on projects and practical experimentation.
+Computer Science student with a strong interest in c0ybersecurity, cloud technologies, and Linux. I enjoy designing, building, and securing software systems while continuously expanding my knowledge through hands-on projects and practical experimentation.
 
 My goal is to develop secure, scalable, and efficient solutions while strengthening my expertise in backend development, operating systems, networking, and cloud security.
 
